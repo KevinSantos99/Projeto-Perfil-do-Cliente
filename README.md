@@ -38,12 +38,9 @@ A partir dessas informações, foi construído um **Dashboard Interativo** com i
 
 ## 🗂️ Estrutura dos Arquivos
 
-- `[ProjetoPerfilDoCliente.xlsx](https://github.com/user-attachments/files/20803431/ProjetoPerfilDoCliente.xlsx)
-` → Arquivo principal com o painel interativo
-- `[base-dados-1.xlsx](https://github.com/user-attachments/files/20803434/base-dados-1.xlsx)
-` → Dados de vendas
-- `[base-dados-2.xlsx](https://github.com/user-attachments/files/20803441/base-dados-2.xlsx)
-` → Dados de clientes
+- `[ProjetoPerfilDoCliente.xlsx](https://github.com/user-attachments/files/20803431/ProjetoPerfilDoCliente.xlsx)` → Arquivo principal com o painel interativo
+- `[base-dados-1.xlsx](https://github.com/user-attachments/files/20803460/base-dados-1.xlsx)` → Dados de vendas
+- `[base-dados-2.xlsx](https://github.com/user-attachments/files/20803451/base-dados-2.xlsx)` → Dados de clientes
 
 ---
 
@@ -58,8 +55,7 @@ Esse painel simula a análise de perfil de clientes em um cenário de negócios,
 
 ## 🧪 Como Usar
 
-1. Baixe o arquivo `[ProjetoPerfilDoCliente.xlsx](https://github.com/user-attachments/files/20803421/ProjetoPerfilDoCliente.xlsx)
-`.
+1. Baixe o arquivo `[ProjetoPerfilDoCliente.xlsx](https://github.com/user-attachments/files/20803421/ProjetoPerfilDoCliente.xlsx)`.
 2. Abra no Microsoft Excel (recomendado: versão 2016 ou superior).
 3. Na aba **Painel**, informe um CPF cadastrado.
 4. Explore as informações exibidas no painel.
