@@ -55,7 +55,7 @@ Esse painel simula a análise de perfil de clientes em um cenário de negócios,
 
 ## 🧪 Como Usar
 
-1. Baixe o arquivo `[ProjetoPerfilDoCliente.xlsx](https://github.com/user-attachments/files/20803421/ProjetoPerfilDoCliente.xlsx)`.
+1. Baixe o arquivo [ProjetoPerfilDoCliente.xlsx](https://github.com/user-attachments/files/20803421/ProjetoPerfilDoCliente.xlsx).
 2. Abra no Microsoft Excel (recomendado: versão 2016 ou superior).
 3. Na aba **Painel**, informe um CPF cadastrado.
 4. Explore as informações exibidas no painel.
