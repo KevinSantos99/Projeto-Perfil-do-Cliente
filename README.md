@@ -38,9 +38,9 @@ A partir dessas informações, foi construído um **Dashboard Interativo** com i
 
 ## 🗂️ Estrutura dos Arquivos
 
-- `[ProjetoPerfilDoCliente.xlsx](https://github.com/user-attachments/files/20803431/ProjetoPerfilDoCliente.xlsx)` → Arquivo principal com o painel interativo
-- `[base-dados-1.xlsx](https://github.com/user-attachments/files/20803460/base-dados-1.xlsx)` → Dados de vendas
-- `[base-dados-2.xlsx](https://github.com/user-attachments/files/20803451/base-dados-2.xlsx)` → Dados de clientes
+- [ProjetoPerfilDoCliente.xlsx](https://github.com/user-attachments/files/20803431/ProjetoPerfilDoCliente.xlsx) → Arquivo principal com o painel interativo
+- [base-dados-1.xlsx](https://github.com/user-attachments/files/20803460/base-dados-1.xlsx) → Dados de vendas
+- [base-dados-2.xlsx](https://github.com/user-attachments/files/20803451/base-dados-2.xlsx) → Dados de clientes
 
 ---
 
